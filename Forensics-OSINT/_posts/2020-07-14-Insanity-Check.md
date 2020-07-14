@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Insanity-Check"
+title: "Insanity Check"
 author: "vishalananth"
 tags: ['Forensics-OSINT']
 ---
 
 There's a flag in our Discord server. Can you get it?
-Server Link: https://discord.gg/CfhfYPQ
+Server Link: [https://discord.gg/CfhfYPQ](https://discord.gg/CfhfYPQ)
 
 ## Solution
 
