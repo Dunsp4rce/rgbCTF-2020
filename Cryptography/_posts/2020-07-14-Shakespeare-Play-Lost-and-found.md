@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shakespeare-Play-Lost-and-found"
+title: "Shakespeare Play Lost and found"
 author: "anishbadhri"
 tags: ['Cryptography']
 ---

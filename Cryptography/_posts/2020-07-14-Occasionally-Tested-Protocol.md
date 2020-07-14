@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Occasionally-Tested-Protocol"
+title: "Occasionally Tested Protocol"
 author: "anishbadhri"
 tags: ['Cryptography']
 ---
