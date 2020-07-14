@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: "I Love Rainbows"
