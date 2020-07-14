@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Imitation-Crab"
+title: "Imitation Crab"
 author: "shreyas-sriram"
 tags: ['Web']
 ---
 
 Flag should be modified to fit the rgbCTF format (rgbCTF{flag}, underscores between words) 
 
-Site: `http://challenge.rgbsec.xyz:7939/`
+Site : [http://challenge.rgbsec.xyz:7939/](http://challenge.rgbsec.xyz:7939/)
 
 ## Solution
 
@@ -26,7 +26,7 @@ fetch('/search', {
 ```
 /static/export.har
 ```
-* Download the `har` file from `http://challenge.rgbsec.xyz:7939/static/export.har`
+* Download the `har` file from [http://challenge.rgbsec.xyz:7939/static/export.har](http://challenge.rgbsec.xyz:7939/static/export.har)
 ```
 Google : The HTTP Archive format, or HAR, is a JSON-formatted archive file format for logging of a web browser's interaction with a site.
 ```
@@ -44,4 +44,6 @@ Google : The HTTP Archive format, or HAR, is a JSON-formatted archive file forma
 
 ## Flag
 
-`rgbCTF{H4R_F1L3S_4R3_2UP3R_US3FU1}`
+```
+rgbCTF{H4R_F1L3S_4R3_2UP3R_US3FU1}
+```

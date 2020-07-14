@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Tic-Tac-Toe"
+title: "Tic Tac Toe"
 author: "shreyas-sriram"
 tags: ['Web']
 ---
 
 Hello there, I invite you to one of the largest online global events in history ... the Tic Tac Toe World Championships!
 
-Site: `http://challenge.rgbsec.xyz:8974/`
+Site : [http://challenge.rgbsec.xyz:8974/](http://challenge.rgbsec.xyz:8974/)
 
 ## Solution
 
@@ -30,4 +30,6 @@ You : (0,1)
 
 ## Flag
 
-`rgbCTF{h4h4_j4v42cr1p7_ev3n72_AR3_c00L}`
+```
+rgbCTF{h4h4_j4v42cr1p7_ev3n72_AR3_c00L}
+```
