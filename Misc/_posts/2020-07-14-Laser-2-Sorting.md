@@ -5,7 +5,7 @@ author: "anishbadhri"
 tags: ['Misc']
 ---
 
-(https://github.com/Quintec/LaserLang)[https://github.com/Quintec/LaserLang]
+[https://github.com/Quintec/LaserLang](https://github.com/Quintec/LaserLang)
 
 Here's a harder Laser challenge. Given an input stack of numbers, sort them in descending order. 
 

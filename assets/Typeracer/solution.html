@@ -1,0 +1,38 @@
+<button id="mybutton" value="temp" onclick="textValue = '';
+
+for(let i=0;i<=49;i++) {
+    textValue += $('[style = \'order: ' + i + '; height:min-content\']')[0].innerText;
+}
+content = textValue.split('');
+i = 0
+function triggerKeyboardEvent(el, keyCode, type) {
+    var eventObj = document.createEventObject ?
+        document.createEventObject() : document.createEvent('Events');
+  
+    if(eventObj.initEvent){
+      eventObj.initEvent(type, true, true);
+    }
+  
+    eventObj.keyCode = keyCode;
+    eventObj.which = keyCode;
+    
+    el.dispatchEvent ? el.dispatchEvent(eventObj) : el.fireEvent('onkeydown', eventObj); 
+  
+} 
+
+function a () {
+    if (i == content.length - 1) return;
+    input = $('textarea')[0]
+    input.focus()
+    i++
+    topress = content[i-1].charCodeAt(0)
+    if(topress == 160) topress = 32
+    triggerKeyboardEvent(input, topress, 'keydown')
+    input.click()
+    triggerKeyboardEvent(input, topress, 'keypress')
+    triggerKeyboardEvent(input, topress, 'keyup')
+    setTimeout(a, 2 * Math.random())
+}
+a();">
+	temp
+</button>
