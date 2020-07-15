@@ -27,5 +27,6 @@ This sufficiently detailed explanation should be enough to get the flag. The chu
 
 ## Flag
 
-`rgbCTF{enterprisecodeee}`
-
+```
+rgbCTF{enterprisecodeee}
+```

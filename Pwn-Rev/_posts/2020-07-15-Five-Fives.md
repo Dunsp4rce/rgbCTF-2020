@@ -53,5 +53,6 @@ Finally, the flag was printed after around 20 minutes.
 
 ## Flag
 
-`rgbCTF{s0m3t1m3s_4ll_y0u_n33d_1s_f0rc3}`
-
+```
+rgbCTF{s0m3t1m3s_4ll_y0u_n33d_1s_f0rc3}
+```

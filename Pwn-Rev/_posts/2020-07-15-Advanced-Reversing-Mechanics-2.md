@@ -94,5 +94,6 @@ We apply this reversing procedure to the list of ASCII values given to retrieve 
 
 ## Flag
 
-`rgbCTF{ARM_ar1thm3t1c_r0cks_fad961}`
-
+```
+rgbCTF{ARM_ar1thm3t1c_r0cks_fad961}
+```

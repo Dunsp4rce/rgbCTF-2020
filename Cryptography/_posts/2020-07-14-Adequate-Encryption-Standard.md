@@ -54,5 +54,6 @@ for block in blocks:
 
 ## Flag
 
-`rgbCTF{brut3_f0rc3_is_4LW4YS_th3_4nsw3r(but_with_0ptimiz4ti0ns)}`
-
+```
+rgbCTF{brut3_f0rc3_is_4LW4YS_th3_4nsw3r(but_with_0ptimiz4ti0ns)}
+```

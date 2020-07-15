@@ -18,5 +18,6 @@ In `simple_rsa.py`, we note that `q` is rather small (less than 10<sup>9</sup>),
 
 ## Flag
 
-`rgbCTF{brut3_f0rc3}`
-
+```
+rgbCTF{brut3_f0rc3}
+```

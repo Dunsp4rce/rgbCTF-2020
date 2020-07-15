@@ -15,5 +15,6 @@ This ended up being a troll question that surprisingly not many teams solved. Cl
 
 ## Flag
 
-`rgbCTF{ST3GL0LS}`
-
+```
+rgbCTF{ST3GL0LS}
+```

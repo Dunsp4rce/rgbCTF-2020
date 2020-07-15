@@ -47,5 +47,6 @@ Seems like all the program does is decrements the ASCII value of each character 
 
 ## Flag
 
-`rgbCTF{ARM_1z_2_eZ_9b7f8d}`
-
+```
+rgbCTF{ARM_1z_2_eZ_9b7f8d}
+```
